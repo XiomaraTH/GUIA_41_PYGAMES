@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 # Inicialización de la superficie de dibujo
 ventana = pygame.display.set_mode((640,480))
-pygame.display.set_caption("Ejemplo 1")
+pygame.display.set_caption("Ejercicio 1")
 # Bucle principal del juego
 jugando = True
 while jugando:
